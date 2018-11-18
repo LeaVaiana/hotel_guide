@@ -1,0 +1,19 @@
+{
+  "name": "hotel_guide",
+  "version": "1.0.0",
+  "description": "our first proyect NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeaVaiana/hotel_guide.git"
+  },
+  "author": "Lea Vaiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeaVaiana/hotel_guide/issues"
+  },
+  "homepage": "https://github.com/LeaVaiana/hotel_guide#readme"
+}
