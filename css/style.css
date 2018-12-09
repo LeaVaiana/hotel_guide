@@ -1,6 +1,7 @@
 .jumbotron {
     background-color: greenyellow;
-    color: black
+    color: black;
+    margin-top: 50px
 }
 
 /*2nd way for applying color to button
