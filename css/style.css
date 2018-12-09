@@ -29,3 +29,8 @@ footer {
     margin-bottom: 8px;
     margin-top: 10px;
 }
+
+.footer-address-icon{
+    padding-right: 10px;
+    color: green;
+}
