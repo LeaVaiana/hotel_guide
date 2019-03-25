@@ -1,1 +1,1 @@
-# hotel_guide
+# hotel_guide, a bootstrap project.
